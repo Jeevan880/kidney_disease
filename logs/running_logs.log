@@ -80,3 +80,7 @@
 [2025-04-11 00:29:48,294: INFO: common: yaml file: params.yaml loaded successfully]
 [2025-04-11 00:29:48,296: INFO: common: created directory at: artifacts]
 [2025-04-11 00:29:48,297: INFO: common: created directory at: artifacts\training]
+[2025-04-11 00:30:27,561: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-04-11 00:30:27,564: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-04-11 00:30:27,566: INFO: common: created directory at: artifacts]
+[2025-04-11 00:30:27,569: INFO: common: created directory at: artifacts\training]
