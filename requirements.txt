@@ -8,12 +8,11 @@ seaborn
 python-box==6.0.2
 pyYAML
 tqdm
-ensure==1.0.2
 joblib
 types-PyYAML
 scipy
 Flask
 Flask-Cors
 gdown
-# tensorflow==2.19.0
+tensorflow==2.12.0
 -e .

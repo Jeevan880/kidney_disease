@@ -1,0 +1,9 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentAnalyzer": "d:\\Jeevan\\VSCode\\Text_summarization\\kidney_disease"
+        }
+    ]
+}

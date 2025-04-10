@@ -24,6 +24,7 @@ list_of_files=[
     "config/config.yaml",
     "templates/index.html",
     "dvc.yaml",
+    "main.py"
 ]
 
 for filepath in list_of_files:
